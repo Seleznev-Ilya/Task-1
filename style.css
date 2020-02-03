@@ -1,0 +1,8 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 100px;
+}
+canvas{
+    border-radius: 5px;
+}
